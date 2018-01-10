@@ -88,6 +88,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -179,8 +180,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 766129973}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.71567434, y: 0.41242248, z: -0.03860748}
-  m_LocalScale: {x: 14.535193, y: 14.535199, z: 14.535199}
+  m_LocalPosition: {x: 3.277, y: 2.771, z: -0.03860748}
+  m_LocalScale: {x: 46.553947, y: 44.015865, z: 14.535199}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -248,6 +249,7 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
