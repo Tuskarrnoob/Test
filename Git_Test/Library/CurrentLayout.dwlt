@@ -20,7 +20,11 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 471}
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +47,11 @@ MonoBehaviour:
     y: 0
     width: 1278
     height: 751
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 471}
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -110,7 +118,11 @@ MonoBehaviour:
   m_MinSize: {x: 915, y: 421}
   m_MaxSize: {x: 22010, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 73
+=======
+  controlID: 49
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -393,9 +405,15 @@ MonoBehaviour:
     height: 680
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 02f6ffff
     m_LastClickedID: -2558
     m_ExpandedIDs: 0cf7ffff7ef7ffffe4f7ffff54faffff00000000
+=======
+    m_SelectedIDs: ea270000
+    m_LastClickedID: 0
+    m_ExpandedIDs: ccedffff72eeffff86fbffff00000000
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -446,9 +464,15 @@ MonoBehaviour:
     height: 680
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 3e290000
     m_LastClickedID: 0
     m_ExpandedIDs: 0cf7ffff7ef7ffffe4f7ffff54faffff00000000
+=======
+    m_SelectedIDs: f0270000
+    m_LastClickedID: 0
+    m_ExpandedIDs: ccedffff72eeffff86fbffff00000000
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -680,18 +704,30 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scene
+=======
+    - Assets
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: D:\GitHub\Test\Test\Git_Test
+=======
+  m_LastProjectPath: /Users/magnusskovdahl/Desktop/Test/Git_Test
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5a1b0000
     m_LastClickedID: 7002
+<<<<<<< HEAD
     m_ExpandedIDs: 20290000
+=======
+    m_ExpandedIDs: 40270000
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -719,7 +755,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 202900003c290000
+=======
+    m_ExpandedIDs: 40270000
+>>>>>>> 2363f98310d3f31065764e08977a08abac8809bf
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: First
@@ -735,7 +775,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
